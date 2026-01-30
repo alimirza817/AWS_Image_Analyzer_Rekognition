@@ -1,0 +1,112 @@
+{
+    "person.jpg": [
+        {
+            "Label": "Photography",
+            "Confidence": 100.0
+        },
+        {
+            "Label": "Face",
+            "Confidence": 100.0
+        },
+        {
+            "Label": "Head",
+            "Confidence": 100.0
+        },
+        {
+            "Label": "Person",
+            "Confidence": 100.0
+        },
+        {
+            "Label": "Portrait",
+            "Confidence": 100.0
+        },
+        {
+            "Label": "Blonde",
+            "Confidence": 99.91
+        },
+        {
+            "Label": "Adult",
+            "Confidence": 98.74
+        },
+        {
+            "Label": "Female",
+            "Confidence": 98.74
+        },
+        {
+            "Label": "Woman",
+            "Confidence": 98.74
+        },
+        {
+            "Label": "Neck",
+            "Confidence": 98.37
+        }
+    ],
+    "dog.jpg": [
+        {
+            "Label": "Animal",
+            "Confidence": 99.97
+        },
+        {
+            "Label": "Canine",
+            "Confidence": 99.97
+        },
+        {
+            "Label": "Dog",
+            "Confidence": 99.97
+        },
+        {
+            "Label": "Golden Retriever",
+            "Confidence": 99.97
+        },
+        {
+            "Label": "Mammal",
+            "Confidence": 99.97
+        },
+        {
+            "Label": "Pet",
+            "Confidence": 99.97
+        }
+    ],
+    "car.jpg": [
+        {
+            "Label": "Car",
+            "Confidence": 100.0
+        },
+        {
+            "Label": "Coupe",
+            "Confidence": 100.0
+        },
+        {
+            "Label": "Sports Car",
+            "Confidence": 100.0
+        },
+        {
+            "Label": "Vehicle",
+            "Confidence": 100.0
+        },
+        {
+            "Label": "Machine",
+            "Confidence": 97.54
+        },
+        {
+            "Label": "Wheel",
+            "Confidence": 97.54
+        },
+        {
+            "Label": "Alloy Wheel",
+            "Confidence": 94.0
+        },
+        {
+            "Label": "Tire",
+            "Confidence": 94.0
+        },
+        {
+            "Label": "Limo",
+            "Confidence": 88.91
+        },
+        {
+            "Label": "Mustang",
+            "Confidence": 87.29
+        }
+    ]
+}
